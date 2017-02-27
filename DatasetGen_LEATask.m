@@ -21,4 +21,5 @@ end
 difs = setdiff(qids, Qid);
 MTRX(:, difs) = [];
 
-
+mcncnchd
+skdjd (kisjdhhd)
